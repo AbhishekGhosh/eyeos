@@ -1,42 +1,26 @@
 eyeos
 =====
 
-EyeOS - GNU Affero General Public License
+EyeOS - GNU GPL
 
 
 ## Context
 
 EyeOS was an open source web desktop with many features, released under AGPL.
 Actually, the creators of EyeOS decided in September 2011 to change the license of their product to a non-FLOSS one.
-Please visit [Wikipedia page for EyeOS](http://en.wikipedia.org/wiki/EyeOS) for more details.
+
+## Future Development of EyeOS
+
+You can Read the [Guide for Installing EyeOS 2.5 on Rackspace Next Generation Cloud Server](http://thecustomizewindows.com/2012/09/installing-eyeos-2-5-on-rackspace-next-generation-cloud-server/).
+
+Suck your thumb for now still I modify and publish EyeOS under GPL on my Managed Rackspace Cloud to honour [Richard Stallman](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCMQFjAA&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRichard_Stallman&ei=VNtYUJewNs7trQeugoHYAw&usg=AFQjCNG10c9SXz4GChaDA10a6HAh6HGOLw).
 
 
-As I ([Tiste](https://github.com/tiste/)) downloaded some time ago a version of EyeOS (2.5) that was released under GNU Affero General Public License, I considered releasing it on Github to help the community to take the project back from its FLOSS versions.
+## Anti Trust
 
+I am quite interested to file a anti trust. They simply abused the spirit of Open Source. But I do not have money. They have deleted all files of all previous versions from all possible official repo. 
+I will do my best to delete some precious backlinks to ther domain which they got just for being an Open Source.
 
-I do not consider myself as a maintainer of this project; if you are interested in developing from this version or in becoming the maintainer of the potential future versions of this software, please fork this repository.
-I am not affiliated in any kind with the original EyeOS creators.
+## No Functional Files Modified
 
-I did not edit any file from the original package (except this README.md file)
-
-
-
-## License
-GNU Affero General Public License
-
-
-## Code
-PHP, JavaScript, XML
-
-
-## Version
-The version given here (EyeOS 2.5) seems to be the last stable release of FLOSS EyeOS; it was released on May 14, 2011.
-Please note that since the change of their license, EyeOS creators also changed their versioning numbers for their proprietary product, which was first released as 1.0.
-Again, visit [Wikipedia page for EyeOS](http://en.wikipedia.org/wiki/EyeOS) for more details.
-
-
-
-## Thanks
-
-Even if they decided to leave the FLOSS model, [creators of EyeOS](http://eyeos.org) made a tremendous job with this software.
-Thank you EyeOS team!
+Thats it. Except this.
