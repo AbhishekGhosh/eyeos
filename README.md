@@ -18,7 +18,7 @@ Suck your thumb for now still I modify and publish EyeOS under GPL on my Managed
 
 ## Anti Trust
 
-I am quite interested to file a anti trust. They simply abused the spirit of Open Source. But I do not have money. They have deleted all files of all previous versions from all possible official repo. 
+I am quite interested to file an anti trust. They simply abused the spirit of Open Source. But I do not have money. They have deleted all files of all previous versions from all possible official repo. 
 I will do my best to delete some precious backlinks to ther domain which they got just for being an Open Source.
 
 ## No Functional Files Modified
